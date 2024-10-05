@@ -1,3 +1,4 @@
 archive
-archive/RealEstate_Georgia.csv
+archive/train.csv
+archive/test.csv
 venv
